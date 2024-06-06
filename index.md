@@ -37,9 +37,9 @@ TBA Pacific Daylight Time
   <tbody>
     <tr>
       <td width="25%"><a href="https://www.mit.edu/~jda/"><img src="assets/images/jacob.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="https://profiles.stanford.edu/michael-bernstein"><img src="assets/images/michael.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://profiles.stanford.edu/michael-bernstein"><img src="assets/images/michael.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
       <td width="25%"><a href="https://www.cs.princeton.edu/~danqic/"><img src="assets/images/danqi.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="https://ai.stanford.edu/~cbfinn/"><img src="assets/images/chelsea.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://ai.stanford.edu/~cbfinn/"><img src="assets/images/chelsea.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
       <td><a href="https://www.mit.edu/~jda/">Jacob Andreas (MIT)</a></td>
@@ -51,7 +51,7 @@ TBA Pacific Daylight Time
       <td width="25%"><a href="https://people.eecs.berkeley.edu/~jegonzal/"><img src="assets/images/joseph.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
       <td width="25%"><a href="https://www.cis.upenn.edu/~danroth/"><img src="assets/images/dan.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
       <td width="25%"><a href="http://web.cse.ohio-state.edu/~huansun/"><img src="assets/images/huan.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="https://taoyds.github.io/"><img src="assets/images/tao.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://taoyds.github.io/"><img src="assets/images/taoyu.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
       <td><a href="https://people.eecs.berkeley.edu/~jegonzal/">Joseph E. Gonzalez (Berkeley)</a></td>
@@ -69,9 +69,9 @@ TBA Pacific Daylight Time
 <table>
   <tbody>
     <tr>
-      <td width="25%"><a href="https://akariasai.github.io/"><img src="assets/images/akari.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="https://zorazrw.github.io/"><img src="assets/images/zora.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="https://swj0419.github.io/"><img src="assets/images/weijia.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://akariasai.github.io/"><img src="assets/images/akari.webp" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://zorazrw.github.io/"><img src="assets/images/zora.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://swj0419.github.io/"><img src="assets/images/weijia.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
       <td><a href="https://akariasai.github.io/">Akari Asai (University of Washington)</a></td>
@@ -80,7 +80,7 @@ TBA Pacific Daylight Time
     </tr>
     <tr>
       <td width="25%"><a href="https://cs.stanford.edu/~myasu/"><img src="assets/images/michihiro.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="https://www.alanesuhr.com/"><img src="assets/images/alane.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://www.alanesuhr.com/"><img src="assets/images/alane.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
       <td width="25%"><a href="https://xiangyue9607.github.io/"><img src="assets/images/xiang.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
